@@ -1,4 +1,4 @@
-FROM nginx:1.23.0
+FROM nginx:1.27.5
 
 RUN apt-get update && apt-get upgrade -y
 
